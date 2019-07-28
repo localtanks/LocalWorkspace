@@ -5,3 +5,5 @@ Central Repository for Core
 3. Genarate location using API on photo click
 
 Localtion API -> Google Cloud API
+
+https://developers.google.com/maps/documentation/geocoding/intro#GeocodingRequests
